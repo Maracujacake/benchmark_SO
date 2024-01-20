@@ -17,3 +17,14 @@ São definidos então diversas opções de blocos para leitura e escrita que dev
 
 # Exemplo de saída:
 ![image](https://github.com/Maracujacake/benchmark_SO/assets/74564883/e103b225-4482-4c8c-a2b7-d7acf5128629)
+
+Para executar o programa, é recomendado compilar o código C disponível:
+
+```
+gcc teste.c -o benchmark3
+```
+Logo em seguida, execute o programa compilado
+
+```
+./benchmark3
+```
