@@ -1,8 +1,8 @@
 # Desempenho de operações de entrada e saida
 
 ### Grupo D:
-- Jonas Gabriel dos Santos Costa Fagundes
-- Anna Carolina Brito Santos Faria
+- Jonas Gabriel dos Santos Costa Fagundes - 790901
+- Anna Carolina Brito Santos Faria - 811448
 - Christian Coronel da S. Polli - 798083
 
 ## O objetivo deste trabalho é realizar testes de medida de tempo (benchmark) sobre operações de entrada e saída, sendo estas:
